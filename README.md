@@ -15,3 +15,8 @@ log
  2019-09-29 19:08:44,190 (SinkRunner-PollingRunner-DefaultSinkProcessor) [INFO - org.apache.flume.sink.LoggerSink.process(LoggerSink.java:95)] Event: { headers:{} body: 58 58 58 58 34                                  XXXX4 }
  2019-09-29 19:08:49,192 (SinkRunner-PollingRunner-DefaultSinkProcessor) [INFO - org.apache.flume.sink.LoggerSink.process(LoggerSink.java:95)] Event: { headers:{} body: 58 58 58 58 30                                  XXXX0 }
  2019-09-29 19:08:54,198 (SinkRunner-PollingRunner-DefaultSinkProcessor) [INFO - org.apache.flume.sink.LoggerSink.process(LoggerSink.java:95)] Event: { headers:{} body: 58 58 58 58 31                                  XXXX1 }`
+ 
+ 
+自定义Sink
+http://flume.apache.org/releases/content/1.9.0/FlumeDeveloperGuide.html#sink
+ 
