@@ -1,3 +1,7 @@
+官方文档，开发手册地址：
+http://flume.apache.org/releases/content/1.9.0/FlumeDeveloperGuide.html#source
+
+
 `bin/flume-ng agent -c conf/ -n a1 -f job/flume-mysource-logger.conf -Dflume.root.logger=INFO,console`
 
 log
